@@ -1,0 +1,13 @@
+{
+  "name": "cartify",
+  "version": "1.0.0",
+  "description": "Cartify E-Commerce Full Stack Application",
+  "engines": {
+    "node": ">=18.x"
+  },
+  "scripts": {
+    "install": "cd server && npm install && cd ../client && npm install",
+    "build": "cd client && npm run build",
+    "start": "cd server && node server.js"
+  }
+}

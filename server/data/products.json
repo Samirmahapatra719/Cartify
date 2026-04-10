@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Sony Alpha a7 IV",
+    "price": 209990,
+    "originalPrice": 240000,
+    "description": "Full-frame mirrorless interchangeable lens camera with 33MP sensor, 4K video, and advanced autofocus.",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "seasons": ["All"]
+  },
+  {
+    "id": 2,
+    "name": "MacBook Pro 16-inch",
+    "price": 249900,
+    "originalPrice": 269900,
+    "description": "Apple M3 Pro chip with 12‑core CPU, 18‑core GPU, 18GB Unified Memory, 512GB SSD Storage.",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "seasons": ["All"]
+  },
+  {
+    "id": 3,
+    "name": "Godrej Split AC 1.5 Ton",
+    "price": 35990,
+    "originalPrice": 45000,
+    "description": "Powerful 5-star inverter split air conditioner perfect for beating the Indian heat.",
+    "image": "/split_ac.png",
+    "seasons": ["Summer"]
+  },
+  {
+    "id": 4,
+    "name": "Milton Thermosteel Water Bottle",
+    "price": 999,
+    "originalPrice": 1200,
+    "description": "Vacuum insulated 1 Litre flask to keep your water icy cool during scorching summer days.",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "seasons": ["Summer"]
+  },
+  {
+    "id": 5,
+    "name": "Wildcraft Waterproof Backpack",
+    "price": 1499,
+    "originalPrice": 2500,
+    "description": "45L waterproof backpack with rain cover. Perfect for commuting in heavy monsoon rains.",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "seasons": ["Monsoon"]
+  },
+  {
+    "id": 6,
+    "name": "Duckback Solid Men Raincoat",
+    "price": 999,
+    "originalPrice": 1500,
+    "description": "Durable and completely waterproof raincoat set with a hooded jacket and pants.",
+    "image": "https://images.unsplash.com/photo-1515688594390-b649af70d282?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "seasons": ["Monsoon"]
+  },
+  {
+    "id": 7,
+    "name": "Woolen Muffler & Cap Set",
+    "price": 699,
+    "originalPrice": 1299,
+    "description": "Cozy unisex woolen scarf and beanie combo to stay warm during chilly winter mornings.",
+    "image": "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "seasons": ["Winter"]
+  },
+  {
+    "id": 8,
+    "name": "Bajaj Room Heater",
+    "price": 1599,
+    "originalPrice": 2200,
+    "description": "Portable 2000W fan room heater with adjustable thermostat.",
+    "image": "/room_heater.png",
+    "seasons": ["Winter"]
+  },
+  {
+    "id": 9,
+    "name": "Spring Premium Tea Assortment",
+    "price": 899,
+    "originalPrice": 1200,
+    "description": "Luxurious assortment of first-flush Darjeeling and Assam teas. Refresh your mornings.",
+    "image": "/tea_assortment.png",
+    "seasons": ["Spring"]
+  },
+  {
+    "id": 10,
+    "name": "Boat Airdopes 141",
+    "price": 1299,
+    "originalPrice": 3990,
+    "description": "True wireless earbuds with 42H playtime, beast mode, and clear calling.",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "seasons": ["All"]
+  }
+]
